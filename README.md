@@ -1,4 +1,5 @@
 # 📱 PhonePe Bill Splitting Case Study
+![Project Preview](images/project-preview.png)
 
 ## 📌 Project Overview
 This Business Analysis case study proposes a Bill Splitting feature for PhonePe that simplifies shared expense management. The solution enables users to split bills, request repayments, and track settlements directly within the PhonePe ecosystem.
